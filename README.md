@@ -17,58 +17,59 @@ EcoTrack-Xchange provides a centralized digital ecosystem for waste management t
 
 ---
 
-## 📸 Demo & Screenshots
 
-Here are a few key views of the EcoTrack-Xchange platform:
+## 📸 Demo & Screenshots
 
 ### 🏠 Landing Page
 ![Landing Page](/homepage.png)
 
-## 👤 Citizen Dashboard
+### 👤 Citizen Dashboard
 ![Citizen Dashboard](/dashboard.png)
-![Citizen Dashboard1](/dashzulu.png)
+![Citizen Dashboard - View 2](/dashzulu.png)
 
-
-### 📱 Waste Reporting / Scanner
+### ♻️ Waste Reporting & AI Scanner
 ![Waste Reporting](/report.png)
 ![Scanner](/scanner.png)
 
-### 📱 Marketplace
-![market](/marketplace.png)
+### 🛍️ Marketplace
+![Marketplace](/marketplace.png)
 
-### 📱 Rewards
-![rewards](/quiz.png)
+### 🎯 Rewards & Quizzes
+![Rewards](/quiz.png)
 
-## 🚛 Collector Portal
+---
+
+### 🚛 Collector Portal
 ![Collector Dashboard](/collectordash.png)
 
-### 📱 Assigned Areas
-![areas](/assignedareas.png)
+#### 🗺️ Assigned Areas
+![Assigned Areas](/assignedareas.png)
 
-### 📱 collection 
-![collection](/collection.png)
+#### 📋 Collection Management
+![Collection](/collection.png)
 
-### 📱 Sell Recyclables
-![sell](/sell.png)
+#### 💰 Sell Recyclables
+![Sell Recyclables](/sell.png)
 
-### 📱 Collectors Perfomance Analytics
-![perfomance](/perfomance.png)
+#### 📊 Collector Performance Analytics
+![Performance](/perfomance.png)
 
-## 🗺️ Admin Portal
-![Admin Map](/admindash.png)
+---
 
-### 📱 Assign Collectors to Reports
-![assign](/collectorsdash.png)
+### 🗺️ Admin Portal
+![Admin Map Dashboard](/admindash.png)
 
-### 📱 Dashboard Analytics
-![admin](/dashanalyitics.png)
+#### 👷 Assign Collectors to Reports
+![Assign Collectors](/collectorsdash.png)
 
-### 📱 Overview of Marketplace
-![adminmarket](/dashmarketplace.png)
+#### 📈 Dashboard Analytics
+![Analytics Dashboard](/dashanalyitics.png)
 
-### 📱 Creation of Campaigns
-![campaign ](/campaigns.png)
+#### 🛒 Marketplace Overview
+![Marketplace Overview](/dashmarketplace.png)
 
+#### 🎉 Campaign Creation
+![Campaign Creation](/campaigns.png)
 
 ---
 
@@ -142,30 +143,26 @@ npm run build
 npm run preview
 ```
 
-## 🧱 Planned Improvements
-Implement backend API (Node.js / Supabase / Firebase)
+## 🧭 Planned Improvements
 
-AI-powered waste recognition (image classification)
+- 🔐 JWT-based authentication  
+- 🧠 AI-powered waste recognition (image classification)  
+- ⚡ Real-time updates via WebSockets  
+- ♻️ Complete WasteContext integration  
+- 🏆 Leaderboards and badges for gamification  
+- 🌍 Full backend API (Node.js / Supabase / Firebase)
 
-Real-time updates (WebSockets)
-
-Complete WasteContext
-
-JWT-based authentication
-
-Leaderboards and badges for gamification
+---
 
 ## 🌱 Project Vision & Impact
-EcoTrack-Xchange empowers citizens and municipal teams to collaborate in building cleaner, smarter cities.
-By combining AI, data visualization, and gamified community participation, the platform helps:
 
-Reduce illegal dumping
+EcoTrack-Xchange empowers **citizens, collectors, and municipalities** to collaborate in creating cleaner, smarter, and greener cities.  
+By leveraging **AI**, **data visualization**, and **gamified participation**, the platform helps:
 
-Promote recycling behavior
+- 🚯 Reduce illegal dumping  
+- 🔁 Promote recycling behavior  
+- 📊 Improve data-driven waste planning  
+- 🔄 Support circular economy initiatives  
 
-Improve data-driven waste planning
+---
 
-Enable circular economy initiatives
-
-## 📄 License
-This project is open-source and available under the MIT License.
